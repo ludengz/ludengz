@@ -1,4 +1,4 @@
-## Featured Work · 代表项目
+## Recent Work · 近期作品
 
 ### [TEKKEN 8 · 铁拳8 全角色中文出招表](https://tekken8movelist.github.io/)
 
