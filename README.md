@@ -6,6 +6,6 @@
 
 [![TEKKEN 8 铁拳8 中文出招表角色页](https://raw.githubusercontent.com/tekken8movelist/tekken8movelist.github.io/main/docs/assets/character-page-preview.png)](https://github.com/tekken8movelist/tekken8movelist.github.io)
 
-A Chinese-first TEKKEN 8 reference with curated Chinese move names, graphical button maps, three notation views, and frame data.
+An artfully crafted TEKKEN 8 movelist for refined, visual lookup—where curated Chinese move names, graphical inputs, three notation modes, and frame data meet a gallery-like character presentation.
 
 [**Live site →**](https://tekken8movelist.github.io/) · [Source](https://github.com/tekken8movelist/tekken8movelist.github.io)
